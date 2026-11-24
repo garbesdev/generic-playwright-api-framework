@@ -1,0 +1,23 @@
+{
+  "name": "generic-playwright-api-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garbesdev/generic-playwright-api-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/garbesdev/generic-playwright-api-framework/issues"
+  },
+  "homepage": "https://github.com/garbesdev/generic-playwright-api-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
